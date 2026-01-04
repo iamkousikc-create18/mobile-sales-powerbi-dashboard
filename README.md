@@ -26,7 +26,7 @@ The dashboard provides interactive and insightful analysis of mobile sales perfo
 ## 🎥 Dashboard Screen Recording
 You can watch the project in action here:
 
-▶ [Click to watch Loan.mp4](./Dashboard.mp4)
+▶ [Click to watch Dashboard.mp4](./Dashboard.mp4)
 
 Or download directly from this repository.
 
