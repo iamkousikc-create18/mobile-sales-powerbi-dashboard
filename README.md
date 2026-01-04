@@ -24,9 +24,11 @@ The dashboard provides interactive and insightful analysis of mobile sales perfo
 ![Mobile Sales Dashboard](Dashboard.jpg)
 
 ## 🎥 Dashboard Screen Recording
-Watch the dashboard walkthrough to see interactive filters, slicers, and dynamic visuals in action:
+You can watch the project in action here:
 
-🔗 **[Watch Dashboard Screen Recording][Dashboard.mp4]
+▶ [Click to watch Loan.mp4](./Dashboard.mp4)
+
+Or download directly from this repository.
 
 
 ## 📂 Project Files
